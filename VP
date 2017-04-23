@@ -1,0 +1,101 @@
+\documentclass[a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[swedish]{babel}
+\pagenumbering{arabic}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{fullpage}
+\usepackage{array}
+\usepackage{ifpdf}
+\ifpdf\DeclareGraphicsExtensions{.pdf,.jpg}\else\DeclareGraphicsExtensions{.eps}\fi
+
+%%%% Fina headers är bra skit. %%%%
+\pagestyle{fancy}
+\headheight 35pt
+\headsep 40pt
+\addtolength{\textheight}{-65pt} 
+%%%% Välj logga (styretlogo, sektionslogo eller din funktionärslogo) och ändra
+\fancyhead[L]{\includegraphics[height=5\baselineskip]{sektionsmarket}}
+\fancyhead[R]{F-styret\\Verksamhetsplan\\Fysikteknologsektionen, Chalmers Tekniska Högskola}
+
+%%%% Här börjar det riktiga dokumentet %%%%
+
+\begin{document}
+
+
+\begin{center}
+\textsc{\Huge Fysikteknologsektionen}\\[0.5cm]
+\textsc{\large Verksamhetsplan för F-styret\\}
+\textsc{\large 2016/2017}\\[0.5cm] %sätt in datum här!!!
+
+
+\large \textbf{F-styret ska under verksamhetsåret\\2016/2017 verka för
+följande mål:}\\
+\normalsize
+\end{center}
+\textit{Siffror inom parentes anger vilket mål i Mål- och visionsdokumentet som verksamhetsplanspunkten jobbar mot.}\\
+\normalsize
+
+\begin{itemize}
+
+\item \textbf{Förbättra styrelsens kontinuitet}.\\
+De senaste åren har varje styrelse haft svårigheter att påbörja sina verksamhetsår på grund av att allt nödvändigt material mycket sällan lämnats över med en gång. Detta året syftar F-styret att ta tag i de kontinuitetsproblem som funnits genom att bland annat skapa lättöverlämnade system för dokumenthantering, tydliga riktlinjer för sektionens verksamhet i alla delar och reda ut eventuella andra problem som inte tagits tag i tidigare.
+
+\item \textbf{Se över FARM:s arbetsgång}.\\
+FARM har de senaste åren ofta haft problem att nå ut till sektionen på ett tillfredsställande sätt. Tidigare har FARM:s sammansättning och invalsprocess utvärderats. I år ämnar F-styret att se över utformningen av FARM:s årliga verksamhet och marknadsföring medelst en arbetsgrupp. (2) %FARM och arbetsgrupp. Doktorander är också jobbare. Alumnikontakt. Anpassa efter mastersprogram. %/Gustav
+
+\item \textbf{Utveckla användandet av sektionens informationskanaler.}\\
+Se till att relevant information om sektionens verksamhet sprids till sektionsmedlemmarna genom exempelvis ftek.se och sociala medier. (4,5,11)
+
+ %Gustav, med Pernilla på Facebookansvar
+
+\item \textbf{Se över struktur för sektionens medlems- och intresseföreningar.}\\
+Se över hur dessa föreningar ska definieras i stadga och reglemente för att på bästa sätt möta sektionens behov. Medlemsföreningar får i dagsläget ta in medlemmar som inte tillhör sektionen men dessa får inte sitta i föreningens styrelse vilket skapar problem. (7,8) 
+
+%Pernilla
+
+%\item Se över IT-systemet. %%kan copypasta från preliminär VP. Lotta kan arra på låg nivå
+
+\item \textbf{Se över skrivare i F-huset}.\\
+Se över möjligheterna att få nya skrivare som uppfyller utskrivftskraven som flertalet kurser kräver. Detta för att studenter ska slippa använda andra lokaler för att lyckas med stora datakrävande utskrifter.  %Sofia
+
+%\item Utveckla mastersbevakning. %Stryk
+
+\item \textbf{Utvidga sektionens lokaler.} \\
+F-sektionen har växt avsevärt sedan våra nuvarande lokaler förvärvades. F-styret vill därför fortsätta arbetet att utveckla våra lokaler så att de uppfyller sektionens behov. (6) %Detta inkluderar en större sektionslokal och mer utrymme i Skyddsrummet.  %Bör stå kvar, även om inget kommer hända. %Sebastian
+
+\item \textbf{Verka för fortsatt förbättring av sektionens lokaler.}\\
+Forsätta arbetet med att förnya och förbättra miljön på Focus. Se över möjligheten att rusta upp köket på Focus. (6)
+ %Pernilla
+
+\item \textbf{Utreda möjligheterna till kontantfri verksamhet}.\\
+Under året ska det utredas vilka alternativ som finns för att gå mot en kontantfri verksamhet. Ett slags dokument ska upprättas med en plan för vilka åtgärder som planeras under kommande år. Planen ska innefatta om, när och hur kontantfrihet ska vara möjligt på F-sektionen.
+%Svårigheter att kombinera med svarta arr. %Lotta
+
+\item \textbf{Sätta upp riktlinjer gällande kommitternas ekonomi}.\\
+Arbetet som påbörjats med att se över föreningars budgetar ska avslutas med att genom en arbetsgrupp sätta upp riktlinjer för hur dessa budgetar ska utformas. Riktlinjerna ska också gälla hur pengar ska disponeras över årets aktiviteter. (4,8)
+
+\item \textbf{Arrangera SaFt}.\\
+Under höstterminen 2016 är det Chalmers tur att arrangera SaFT, Samarbetande Fysikteknologer. Det är ett samarabete mellan fem tekniska högskolor runt om i landet där F-sektioner samlas för att dela med sig av erfarenheter och kunskap. Ansvaret att arrangera SaFt faller på sektionens styrelse, och det kommer äga rum 18-20 november.%Pallar inte/NK %Alla
+
+\item \textbf{Fortsätta arbetet med att möjligöra engagemang i mindre projekt på sektionen.}\\
+Under förra året arbetade F-styret med att möjliggöra engagemang i mindre projekt för alla sektionsmedlemmar. Under kommande år ska vi fortsätta detta arbete genom att nå ut med information om hur man kan gå tillväga om man vill engagera sig i något mindre projekt. (7,8)
+
+%Sektionspotten utökades och en pufflista skapades där sektionsmedlemmar kan skriva upp sig om de vill vara med och hjälpa till under arrangemang. 
+ %Det kommer gå dåligt /Pille. Facebookgrupp? %Whålis eller typ alla LOL
+
+\item \textbf{Se över invalsprocesser.} \\
+De senaste åren har F6 och Djungepatrullen haft problem med att deras inval kan hamna för sent på vårterminen. Detta år ska det ses över om invalsmötet kan ligga tidigare, och sedan ska det utvärderas om ett tidigare inval fungerar bra. F-styret ska också se över möjligheter att göra nomineringsprocessen mer transparent, t.ex. genom att offentliggöra icke förtroendeinvalda nomineringar innan ett sektionsmöte. Dessutom ska det också se över om invalen för sektionens många funktionärsposter kan strömlinjeformas. (4,7)%Kanske inte så högprioriterat. Snacka med resten av styret. Flytta fram inval av F6 och DP. Se över hur långa aspningarna är. Bör icke-förtroende nominerade bli avslöjade innan sektmötet? Alltid inval första veckan i maj? n %Sebastian
+
+\item \textbf{Se över SAMOs roll}.\\
+F-styret vill i år utreda hur SAMO-rollen ska se ut samt hur de olika delarna av arbetet bör fördelas. Dessutom ska strukturer för att öka SAMOs synlighet för sektionens medlemmar utarbetas och implementeras. (5,9) % Sofia
+
+\item \textbf{Se över sektionstyrelsens struktur}.\\
+Då arbetsbelastningen på sektionsstyrelsen kan vara ganska tung så vill F-styret under året ta fram en arbetsgrupp som börjar se över hur sektionsstyrelsen bör vara utformad. Frågor som ska utredas är primärt huruvida det behövs ytterligare en post i styrelsen och hur arbetsuppgifter ska fördelas. Målet är att vid slutet av året ha en konkret plan för hur sektionsstyrelsen ska utformas framöver. (5)
+%Bör ledamot/sekreterare göras om till sekreterare/info/SAMOchef, till exempel. %Alla
+
+\end{itemize}
+
+\end{document}
+
